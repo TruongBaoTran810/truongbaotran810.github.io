@@ -35,10 +35,11 @@ We used analytical tools and built charts to: <br> <br>
 • Analyze and determine the purchasing needs of different customer segments, thereby offering different strategies to extract maximum value from customers with high and low profitability. <br>
 • Analyze the quantity of each item in the enterprise; evaluate the business efficiency of each group of products and groups of products in the business process. Thereby promoting the product further. <br>
 • Internally evaluate, improve and optimize capabilities in the sales process, improve efficiency, increase revenue and profit through salespersons analysis. <br>
-• Analyze the effectiveness of the application of promotions and discounts. Thereby promoting effective promotions to help retain customers. <br>
-
+• Analyze the effectiveness of the application of promotions and discounts. Thereby promoting effective promotions to help retain customers. 
+<br>
 
 </div>
+
 <center><img src="assets/img/datawarehouse.png"/></center>
 <center><img src="assets/img/BI_solution.png"/></center>
 

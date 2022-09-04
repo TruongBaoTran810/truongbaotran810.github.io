@@ -4,8 +4,8 @@
 
 [**Best Linear Regression Model to Predict Car Prices**]
 
-[![Simple](https://img.shields.io/badge/Simple Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb)
-[![Multiple](https://img.shields.io/badge/Multiple Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb)
+[![Simple](https://img.shields.io/badge/Models1-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb)
+[![Multiple](https://img.shields.io/badge/Models2-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/LinearRegression.pdf)
 [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-PURPLE?logo=GitHub)](https://github.com/jennifernguyen281/Kaggle-Competition-Predict-Final-Price-of-Residential-Homes-in-Ames-IA)
 

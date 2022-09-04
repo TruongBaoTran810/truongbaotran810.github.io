@@ -1,5 +1,5 @@
 title: <p align="center"> Truong Bao Tran </p>  # your name (or website title) here
-logo: "/assets/img/avartar.jpg?raw=true" 
+logo: "/assets/img/avartar_1.jpg?raw=true" 
 description: 
   <p align="center">
   <a href="https://www.linkedin.com/in/bao-tran-truong08102001/">LinkedIn</a> |
@@ -8,9 +8,6 @@ description:
   
   <p align="left">
   Management Information Systems - University of Economics and Law - VNUHCMC <br> 
-  <h3>Objectives</h3> <br>
-  
-  <br><br>
   </p>
   
 theme: jekyll-theme-minimal

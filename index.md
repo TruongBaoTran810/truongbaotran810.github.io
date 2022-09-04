@@ -29,18 +29,24 @@ Model: Simple Linear Regression, Multiple Linear Regression
 [![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/TruongBaoTran810/BI-Solution-for-Sales-proces-of-AdventureWorks/blob/main/BI_Solution_Presentation.pdf)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/BI-Solution-for-Sales-proces-of-AdventureWorks/blob/main/BI_Solution_Report.pdf)
 
-<div style="text-align: justify"> "Find Green is a start-up enterprise with a mission of empowering consumers to shift businesses toward sustainable practices by demonstrating market demand. Find Green has created the first consumer-choice platform (like Yelp, TripAdvisor) that allows users to find, compare and rate businesses based on their sustainability." <br>
-We created strategies to <br>
-• Increase engagement and retain current app users through data-driven incentive programs resulting from user survey analyses and secondary market research <br>
-• Identify partnership opportunities for client via research of market of sustainable businesses and green advocacy organizations <br>
-• Promote further product development <br>
+<div style="text-align: justify"> "The AdventureWorks database is set on the data of a fictional company called Adventure Works Cycles. This is said to be a large-scale multinational manufacturing company. The company manufactures and sells bicycles made of metal and synthetic materials. The company's market includes North America , Europe and Asia." <br> <br>
+We used analytical tools and built charts to: <br> <br>
+• Analyze and evaluate the level of goods consumption of regions and territories. <br>
+• Analyze and determine the purchasing needs of different customer segments, thereby offering different strategies to extract maximum value from customers with high and low profitability. <br>
+• Analyze the quantity of each item in the enterprise; evaluate the business efficiency of each group of products and groups of products in the business process. Thereby promoting the product further. <br>
+• Internally evaluate, improve and optimize capabilities in the sales process, improve efficiency, increase revenue and profit through salespersons analysis. <br>
+• Analyze the effectiveness of the application of promotions and discounts. Thereby promoting effective promotions to help retain customers. <br>
 
 
 </div>
-<center><img src="assets/img/image(1).jpg"/></center>
+<center><img src="assets/img/datawarehouse.png"/></center>
+<center><img src="assets/img/BI_solution.png"/></center>
+
+---
+<center>© 2022 Tran Truong. Powered by Jekyll and the Minimal Theme.</center>
 
 
 
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->

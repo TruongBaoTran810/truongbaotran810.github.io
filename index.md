@@ -30,7 +30,7 @@ Model: Simple Linear Regression, Multiple Linear Regression
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/BI-Solution-for-Sales-proces-of-AdventureWorks/blob/main/BI_Solution_Report.pdf)
 
 <div style="text-align: justify"> "The AdventureWorks database is set on the data of a fictional company called Adventure Works Cycles. This is said to be a large-scale multinational manufacturing company. The company manufactures and sells bicycles made of metal and synthetic materials. The company's market includes North America , Europe and Asia." <br> <br>
-We used analytical tools and built charts to: <br> <br>
+I used analytical tools and built charts to: <br> <br>
 • Analyze and evaluate the level of goods consumption of regions and territories. <br>
 • Analyze and determine the purchasing needs of different customer segments, thereby offering different strategies to extract maximum value from customers with high and low profitability. <br>
 • Analyze the quantity of each item in the enterprise; evaluate the business efficiency of each group of products and groups of products in the business process. Thereby promoting the product further. <br>

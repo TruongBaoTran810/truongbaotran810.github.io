@@ -41,7 +41,7 @@ I used analytical tools and built charts to: <br> <br>
 </div>
 
 <center><img src="assets/img/datawarehouse.png"/></center>
-<center><img src="assets/img/BI_solution.png"/></center>
+<center><img src="assets/img/report.png"/></center>
 
 ---
 <center>© 2022 Tran Truong. Powered by Jekyll and the Minimal Theme.</center>

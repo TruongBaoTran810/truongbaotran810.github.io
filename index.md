@@ -17,8 +17,12 @@ shopping action. With the characteristics of Recency, Frequency and Monetary, th
 With the green cluster, it can be said that this is a fairly large group of customers, this is a common customer group of businesses. In which, the spending level is not too high and lower than the group of loyal customers in purple clusters, but accounts for a relatively high percentage. Regarding the Recency and Frequency values, it remains at a more stable level. With this group of customers, businesses can continue to improve their sales policies to keep this group of customers with them. <br>
 <center><img src="assets/img/RFM.PNG"/></center>
 
---
-## Data Analytics 
+---
+## Big Data
+
+[**RFM Analysia with K-MEANS Cluster by Apache SPARK Tools**]
+
+ ## Data Analytics 
 
 [**Best Linear Regression Model to Predict Car Prices**]
 

@@ -1,8 +1,8 @@
 # Portfolio
 ---
-<h1>Big Data <h1>
+<h1>Big Data </h1>
 
-<h2> RFM Analysia with K-MEANS Cluster by Apache SPARK Tools <h2>
+<h2> RFM Analysia with K-MEANS Cluster by Apache SPARK Tools </h2>
 
 <div style="text-align: justify"> 
 Specifically, using K-means clustering method to divide customer groups based on three factors in RFM method. Each customer segment is now considered a cluster in K-means. <br>
@@ -18,9 +18,9 @@ With the green cluster, it can be said that this is a fairly large group of cust
 <center><img src="assets/img/RFM.PNG"/></center>
 
 
- <h1> Data Analytics <h1>
+<h1>Data Analytics</h1>
 
-<h2> Best Linear Regression Model to Predict Car Prices <h2>
+<h2> Best Linear Regression Model to Predict Car Prices </h2>
 
 <!-- [![Simple](https://img.shields.io/badge/Simple_Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb)
 [![Multiple](https://img.shields.io/badge/Multiple_Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb)
@@ -40,9 +40,9 @@ Model: Simple Linear Regression, Multiple Linear Regression
 <center><img src="assets/img/multiple_linear_regression.png"/></center>
 
 
-<h1> Business Intelligence and Decision Support System Project <h1>
+<h1> Business Intelligence and Decision Support System Project </h1>
 
-<h2> BI Solution for Sales process of AdventureWorks <h2>
+<h2> BI Solution for Sales process of AdventureWorks </h2>
 
 <!-- [![Presentation](https://img.shields.io/badge/Presentation-salmon?)]([https://github.com/TruongBaoTran810/BI-Solution-for-Sales-proces-of-AdventureWorks/blob/main/BI_Solution_Presentation.pdf](https://github.com/TruongBaoTran810/BI-Solution-for-Sales-proces-of-AdventureWorks/blob/main/BI_Solution_Presentation.pdf))
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/BI-Solution-for-Sales-proces-of-AdventureWorks/blob/main/BI_Solution_Report.pdf)

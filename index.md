@@ -1,5 +1,23 @@
 # Portfolio
 ---
+## Big Data
+
+[**RFM Analysia with K-MEANS Cluster by Apache SPARK Tools**]
+
+<div style="text-align: justify"> 
+Specifically, using K-means clustering method to divide customer groups based on three factors in RFM method. Each customer segment is now considered a cluster in K-means. <br>
+<br> Stage 1 collects from the input data a dataset, then explores and preprocesses the data. Then from the necessary attributes from the data set to calculate three important values: Recency, Frequency, Monetary and finally complete the data according to RFM model. Stage 2 is the last stage and also the most complex stage. At this stage, the appropriate methods and models will be selected to solve the input data normalization and implemented the K-Means clustering method to segment customers. From there, giving analysis results, customer group decisions based on K-Means clustering results have been visualized through graphs. <br>
+</div>
+
+<center><img src="assets/img/RFM_Model.png"/></center>
+<div style="text-align: justify"> 
+The figure below is a 3D chart of all segmented customers. It can be seen that the density of points of purple and green clusters is relatively stable. As for the yellow cluster, there are fewer and more scattered elements, so it is possible that these are outliers. Therefore, it is very difficult to determine which customer group the yellow cluster is. <br> <br>
+Looking at the predictable 3D graph, the purple cluster group can be the loyal customer group of the business. The most recent purchase date of this customer group is in the best group. This group of customers may be willing to spend more money on activities
+shopping action. With the characteristics of Recency, Frequency and Monetary, this is not only a loyal customer group but also a group of potential customers that bring great benefits to businesses. <br> <br>
+With the green cluster, it can be said that this is a fairly large group of customers, this is a common customer group of businesses. In which, the spending level is not too high and lower than the group of loyal customers in purple clusters, but accounts for a relatively high percentage. Regarding the Recency and Frequency values, it remains at a more stable level. With this group of customers, businesses can continue to improve their sales policies to keep this group of customers with them. <br>
+<center><img src="assets/img/RFM.PNG"/></center>
+
+---
 ## Data Analytics 
 
 [**Best Linear Regression Model to Predict Car Prices**]

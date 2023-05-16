@@ -22,10 +22,10 @@ With the green cluster, it can be said that this is a fairly large group of cust
 
 [**Best Linear Regression Model to Predict Car Prices**]
 
-[![Simple](https://img.shields.io/badge/Simple_Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb)
+<!-- [![Simple](https://img.shields.io/badge/Simple_Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb)
 [![Multiple](https://img.shields.io/badge/Multiple_Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb)
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/LinearRegression.pdf)
-
+ -->
 
 <div style="text-align: justify"> I want to predict the price of a car using 11 characteristics of the car and identify the characteristics that have the most influence on the price of the car. The best model can be used by auto dealers and buyers to estimate the price for a car with specific characteristics they want to sell/buy.
 <br> <br>
@@ -44,9 +44,9 @@ Model: Simple Linear Regression, Multiple Linear Regression
 
 [**BI Solution for Sales process of AdventureWorks**]
 
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/TruongBaoTran810/BI-Solution-for-Sales-proces-of-AdventureWorks/blob/main/BI_Solution_Presentation.pdf)
+<!-- [![Presentation](https://img.shields.io/badge/Presentation-salmon?)]([https://github.com/TruongBaoTran810/BI-Solution-for-Sales-proces-of-AdventureWorks/blob/main/BI_Solution_Presentation.pdf](https://github.com/TruongBaoTran810/BI-Solution-for-Sales-proces-of-AdventureWorks/blob/main/BI_Solution_Presentation.pdf))
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/BI-Solution-for-Sales-proces-of-AdventureWorks/blob/main/BI_Solution_Report.pdf)
-
+ -->
 <div style="text-align: justify"> "The AdventureWorks database is set on the data of a fictional company called Adventure Works Cycles. This is said to be a large-scale multinational manufacturing company. The company manufactures and sells bicycles made of metal and synthetic materials. The company's market includes North America , Europe and Asia." <br> <br>
 I used analytical tools and built charts to: <br> <br>
 • Analyze and evaluate the level of goods consumption of regions and territories. <br>

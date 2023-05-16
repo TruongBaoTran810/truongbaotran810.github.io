@@ -1,8 +1,8 @@
 # Portfolio
 ---
-<h1>Big Data </h1>
+<h1>Big Data</h1>
 
-<h2> RFM Analysia with K-MEANS Cluster by Apache SPARK Tools </h2>
+<h2> RFM Analysia with K-MEANS Cluster by Apache SPARK Tools</h2>
 
 <div style="text-align: justify"> 
 Specifically, using K-means clustering method to divide customer groups based on three factors in RFM method. Each customer segment is now considered a cluster in K-means. <br>

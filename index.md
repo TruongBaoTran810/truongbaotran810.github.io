@@ -24,11 +24,11 @@ With the green cluster, it can be said that this is a fairly large group of cust
 
 <h2> Best Linear Regression Model to Predict Car Prices </h2>
 
-[![Simple](https://img.shields.io/badge/Simple_Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb) 
+[![Simple](https://img.shields.io/badge/Simple_Model-lightskyblue?logo=Python)].(https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb) 
  
-[![Multiple](https://img.shields.io/badge/Multiple_Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb)
+[![Multiple](https://img.shields.io/badge/Multiple_Model-lightskyblue?logo=Python)].(https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb)
 
-[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/LinearRegression.pdf)
+[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)].(https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/LinearRegression.pdf)
 
 <div style="text-align: justify"> I want to predict the price of a car using 11 characteristics of the car and identify the characteristics that have the most influence on the price of the car. The best model can be used by auto dealers and buyers to estimate the price for a car with specific characteristics they want to sell/buy.
 <br> <br>

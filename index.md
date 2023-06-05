@@ -2,7 +2,7 @@
 ---
 <h1>Big Data</h1>
 
-<h2> RFM Analysia with K-MEANS Cluster by Apache SPARK Tools</h2>
+<h2> RFM Analysis with K-MEANS Cluster by Apache SPARK Tools</h2>
 
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/Documents/blob/main/RFM_Analysis_by_PySpark-Final.pdf)
 

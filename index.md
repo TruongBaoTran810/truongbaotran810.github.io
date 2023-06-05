@@ -4,7 +4,9 @@
 
 <h2> RFM Analysis with K-MEANS Cluster by Apache SPARK Tools</h2>
 
-[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/Documents/blob/main/RFM_Analysis_by_PySpark-Final.pdf)
+<p>
+<a href="https://github.com/TruongBaoTran810/Documents/blob/main/RFM_Analysis_by_PySpark-Final.pdf">PDF</a>
+</p>
 
 <div style="text-align: justify"> 
 Specifically, using K-means clustering method to divide customer groups based on three factors in RFM method. Each customer segment is now considered a cluster in K-means. <br>
@@ -24,8 +26,8 @@ With the green cluster, it can be said that this is a fairly large group of cust
 
 <h2> Best Linear Regression Model to Predict Car Prices </h2>
 <p>
-<a href="https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb">Simple-Linear-Regression</a> <br>
-<a href="https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb">Multiple-Linear-Regression</a> <br>
+<a href="https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb">Simple-Linear-Regression_Code</a> <br>
+<a href="https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb">Multiple-Linear-Regression_Code</a> <br>
 <a href="https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/LinearRegression.pdf">PDF</a>
 </p>
 

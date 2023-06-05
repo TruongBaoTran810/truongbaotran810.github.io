@@ -4,7 +4,7 @@
 
 <h2> RFM Analysia with K-MEANS Cluster by Apache SPARK Tools</h2>
 
-[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)(https://github.com/TruongBaoTran810/Documents/blob/main/RFM%20Analysis%20by%20PySpark-Final.pdf)
+[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)(https://github.com/TruongBaoTran810/Documents/blob/main/RFM Analysis by PySpark-Final.pdf)
 
 <div style="text-align: justify"> 
 Specifically, using K-means clustering method to divide customer groups based on three factors in RFM method. Each customer segment is now considered a cluster in K-means. <br>

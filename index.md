@@ -23,6 +23,11 @@ With the green cluster, it can be said that this is a fairly large group of cust
 <h1>Data Analytics</h1>
 
 <h2> Best Linear Regression Model to Predict Car Prices </h2>
+<p>
+<a href="https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb">Simple-Linear-Regression</a> <br>
+<a href="https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb">Multiple-Linear-Regression</a> <br>
+<a href="https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/LinearRegression.pdf">PDF</a>
+</p>
 
 <div style="text-align: justify"> I want to predict the price of a car using 11 characteristics of the car and identify the characteristics that have the most influence on the price of the car. The best model can be used by auto dealers and buyers to estimate the price for a car with specific characteristics they want to sell/buy.
 <br> <br>

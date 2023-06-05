@@ -7,7 +7,7 @@
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/Documents/blob/main/RFM_Analysis_by_PySpark-Final.pdf)
 
 <div style="text-align: justify"> 
-Specifically, using K-means clustering method to divide customer groups based on three factors in RFM method. Each customer segment is now considered a cluster in K-means. <br>
+Using K-means clustering method to divide customer groups based on three factors in RFM method. Each customer segment is now considered a cluster in K-means. <br>
 <br> Stage 1 collects from the input data a dataset, then explores and preprocesses the data. Then from the necessary attributes from the data set to calculate three important values: Recency, Frequency, Monetary and finally complete the data according to RFM model. Stage 2 is the last stage and also the most complex stage. At this stage, the appropriate methods and models will be selected to solve the input data normalization and implemented the K-Means clustering method to segment customers. From there, giving analysis results, customer group decisions based on K-Means clustering results have been visualized through graphs. <br>
 </div>
 

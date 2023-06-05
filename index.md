@@ -23,10 +23,6 @@ With the green cluster, it can be said that this is a fairly large group of cust
 <h1>Data Analytics</h1>
 
 <h2> Best Linear Regression Model to Predict Car Prices </h2>
-
-[![Simple](https://img.shields.io/badge/Simple_Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb) <br>
- 
-[![Multiple](https://img.shields.io/badge/Multiple_Model-lightskyblue?logo=Python)](https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb) <br>
  
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/LinearRegression.pdf)
 

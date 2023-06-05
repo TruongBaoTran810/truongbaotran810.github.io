@@ -47,7 +47,7 @@ Model: Simple Linear Regression, Multiple Linear Regression
 
 <h2> BI Solution for Sales process of AdventureWorks </h2> 
 
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/TruongBaoTran810/Documents/blob/main/BI_Solution_Presentation.pdf) 
+[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/TruongBaoTran810/Documents/blob/main/BI_Solution_Presentation.pdf) <br>
 
 [![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/Documents/blob/main/BI_Solution_Report.pdf)
 

@@ -5,7 +5,7 @@
 <h2> RFM Analysis with K-MEANS Cluster by Apache SPARK Tools</h2>
 
 <p>
-<a href="https://github.com/TruongBaoTran810/Documents/blob/main/RFM_Analysis_by_PySpark-Final.pdf">PDF</a>
+<a href="https://github.com/TruongBaoTran810/Documents/blob/main/RFM_Analysis_by_PySpark-Final.pdf">Report_PDF</a>
 </p>
 
 <div style="text-align: justify"> 
@@ -28,7 +28,7 @@ With the green cluster, it can be said that this is a fairly large group of cust
 <p>
 <a href="https://github.com/TruongBaoTran810/Simple-Linear-Regression-Project/blob/main/simple-linear-regression-by-python.ipynb">Simple-Linear-Regression_Code</a> <br>
 <a href="https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/multiple-linear-regression-by-python.ipynb">Multiple-Linear-Regression_Code</a> <br>
-<a href="https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/LinearRegression.pdf">PDF</a>
+<a href="https://github.com/TruongBaoTran810/Multiple-Linear-Regression/blob/main/LinearRegression.pdf">Report_PDF</a>
 </p>
 
 <div style="text-align: justify"> I want to predict the price of a car using 11 characteristics of the car and identify the characteristics that have the most influence on the price of the car. The best model can be used by auto dealers and buyers to estimate the price for a car with specific characteristics they want to sell/buy.
@@ -48,9 +48,10 @@ Model: Simple Linear Regression, Multiple Linear Regression
 
 <h2> BI Solution for Sales process of AdventureWorks </h2> 
 
-[![Presentation](https://img.shields.io/badge/Presentation-salmon?)](https://github.com/TruongBaoTran810/Documents/blob/main/BI_Solution_Presentation.pdf) <br>
-
-[![Report](https://img.shields.io/badge/PDF-Report-red?logo=PDF)](https://github.com/TruongBaoTran810/Documents/blob/main/BI_Solution_Report.pdf)
+<p>
+<a href="https://github.com/TruongBaoTran810/Documents/blob/main/BI_Solution_Presentation.pdf">Presentation_PDF</a> <br>
+<a href="https://github.com/TruongBaoTran810/Documents/blob/main/BI_Solution_Report.pdf">Report_PDF</a>
+</p>
 
 <div style="text-align: justify"> "The AdventureWorks database is set on the data of a fictional company called Adventure Works Cycles. This is said to be a large-scale multinational manufacturing company. The company manufactures and sells bicycles made of metal and synthetic materials. The company's market includes North America , Europe and Asia." <br> <br>
 I used analytical tools and built charts to: <br> <br>

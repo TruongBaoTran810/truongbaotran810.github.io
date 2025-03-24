@@ -1,5 +1,5 @@
 title: <p align="center"> Truong Bao Tran </p>  # your name (or website title) here
-logo: "/assets/img/NewCV_im.jpg?raw=true" 
+logo: "/assets/img/CV_Image.jpg?raw=true" 
 description: 
   <p align="center">
   <a href="https://www.linkedin.com/in/bao-tran-truong08102001/">LinkedIn</a> |
@@ -7,7 +7,8 @@ description:
   </p>
   
   <p align="left">
-  Management Information Systems - University of Economics and Law - VNUHCMC <br> 
+  University of Economics and Law - Management Information Systems<br> 
+  Data Analyst at Unilever Vietnam
   </p>
   
 theme: jekyll-theme-minimal

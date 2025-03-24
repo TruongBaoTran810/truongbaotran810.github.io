@@ -68,7 +68,7 @@ I used analytical tools and built charts to: <br> <br>
 <center><img src="assets/img/report.png"/></center>
 
 ---
-<center>© 2022 Tran Truong. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2025 Tran Truong. Powered by Jekyll and the Minimal Theme.</center>
 
 
 

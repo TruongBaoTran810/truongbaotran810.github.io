@@ -1,5 +1,25 @@
 # Portfolio
 ---
+<h1> Business Intelligence and Decision Support System Project </h1>
+
+<h2> Data Analyst for Grab </h2> 
+ 
+<p>
+<a href="https://github.com/TruongBaoTran810/Documents/blob/main/Data Insight Analyst.pdf">Presentation_PDF</a> <br>
+</p>
+<div style="text-align: justify"> "In this project, I utilized the dataset provided by Grab, which contains detailed information on user transactions, item orders, and outlet demographics. The analysis focuses on exploring growth dynamics and customer segmentation, aiming to uncover valuable insights that can drive strategic decision-making. <br> <br>
+• Analyze overall growth trends and identify key growth outlets <br>
+• Segment outlets based on demographics, spending patterns, and service usage, thereby offering different strategies to extract maximum value from customers with high and low profitability. <br>
+• Analyze the quantity of each item in the enterprise; evaluate the business efficiency of each group of products and groups of products in the business process. Thereby promoting the product further. <br>
+• Discover actionable insights for improving outlet engagement and retention. <br>
+• Recommend strategies to optimize marketing and service delivery for different outlet segments
+<br>
+
+</div>
+
+<center><img src="assets/img/Growth Page.png"/></center>
+<center><img src="assets/img/Segment Page.png"/></center>
+
 <h1>Big Data</h1>
 
 <h2> RFM Analysis with K-MEANS Cluster by Apache SPARK Tools</h2>

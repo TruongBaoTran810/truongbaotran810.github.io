@@ -65,28 +65,6 @@ Model: Simple Linear Regression, Multiple Linear Regression
 <center><img src="assets/img/multiple_linear_regression.png"/></center>
 
 
-<h1> Business Intelligence and Decision Support System Project </h1>
-
-<h2> BI Solution for Sales process of AdventureWorks </h2> 
- 
-<p>
-<a href="https://github.com/TruongBaoTran810/Documents/blob/main/BI_Solution_Presentation.pdf">Presentation_PDF</a> <br>
-<a href="https://github.com/TruongBaoTran810/Documents/blob/main/BI_Solution_Report.pdf">Report_PDF</a>
-</p>
-<div style="text-align: justify"> "The AdventureWorks database is set on the data of a fictional company called Adventure Works Cycles. This is said to be a large-scale multinational manufacturing company. The company manufactures and sells bicycles made of metal and synthetic materials. The company's market includes North America , Europe and Asia." <br> <br>
-I used analytical tools and built charts to: <br> <br>
-• Analyze and evaluate the level of goods consumption of regions and territories. <br>
-• Analyze and determine the purchasing needs of different customer segments, thereby offering different strategies to extract maximum value from customers with high and low profitability. <br>
-• Analyze the quantity of each item in the enterprise; evaluate the business efficiency of each group of products and groups of products in the business process. Thereby promoting the product further. <br>
-• Internally evaluate, improve and optimize capabilities in the sales process, improve efficiency, increase revenue and profit through salespersons analysis. <br>
-• Analyze the effectiveness of the application of promotions and discounts. Thereby promoting effective promotions to help retain customers. 
-<br>
-
-</div>
-
-<center><img src="assets/img/datawarehouse.png"/></center>
-<center><img src="assets/img/report.png"/></center>
-
 ---
 <center>© 2025 Tran Truong. Powered by Jekyll and the Minimal Theme.</center>
 

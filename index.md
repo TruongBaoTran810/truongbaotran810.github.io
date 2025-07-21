@@ -2,7 +2,39 @@
 ---
 <h1> Business Intelligence and Decision Support System Project </h1>
 
-<h2> Data Analyst for Grab </h2> 
+<h2> Data Analyst for AdventureWork - SQL </h2> 
+<p>
+<a href="https://github.com/TruongBaoTran810/Documents/blob/main/AdventureWork_Report.sql">AdventureWork_Report_SQL</a> <br>
+</p>
+<div style="text-align: justify"> "This project is a comprehensive SQL-based analysis of a fictional Adventure Work dataset, designed to explore trends in sale performance, marketing performance, customer behavior, and sales patterns. <br> <br>
+## 🛠️ Skills & Concepts Used <br>
+- SQL Aggregations & Grouping  <br>
+- Window Functions  <br>
+- CTEs (Common Table Expressions)  <br>
+- Case Statements  <br>
+- Ranking Functions (`RANK()`, `ROW_NUMBER()`, `NTILE`)  <br>
+- Data Cleaning & Transformation <br>  <br> <br>
+ 
+## 📂 Project Structure <br>
+- `AdventureWork_Report.sql`: Main query file with all report  <br> <br>
+## 🔧 Tools Used <br>
+
+- SQL (Tested on PostgreSQL) <br>
+- DBMS: Any supported engine <br>
+- GitHub for version control  <br> <br>
+
+---
+
+## 📚 Future Improvements <br>
+
+- Visual dashboards with Power BI / Tableau <br>
+- ML model to predict sales based on outlet and product features <br>
+- Integration with real-time APIs for inventory tracking <br>
+<br>
+
+</div>
+
+<h2> Data Analyst for GrabFood - PowerBI </h2> 
  
 <p>
 <a href="https://github.com/TruongBaoTran810/Documents/blob/main/Data Insight Analyst.pdf">Presentation_PDF</a> <br>

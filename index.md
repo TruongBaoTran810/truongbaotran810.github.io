@@ -1,12 +1,13 @@
 # Portfolio
 ---
-<h1> Business Intelligence and Decision Support System Project </h1>
+<h1>🎯 Business Intelligence and Decision Support System Project </h1>
 
-<h2> Data Analyst for AdventureWork - SQL </h2> 
+<h2> 📌 DATA ANALYST FOR ADVENTURE WORK - SQL </h2> 
 <p>
 <a href="https://github.com/TruongBaoTran810/Documents/blob/main/AdventureWork_Report.sql">AdventureWork_Report_SQL</a> <br>
 </p>
 <div style="text-align: justify"> "This project is a comprehensive SQL-based analysis of a fictional Adventure Work dataset, designed to explore trends in sale performance, marketing performance, customer behavior, and sales patterns. <br> <br>
+ 
 ## 🛠️ Skills & Concepts Used <br>
 - SQL Aggregations & Grouping  <br>
 - Window Functions  <br>
@@ -22,7 +23,6 @@
 - SQL (Tested on PostgreSQL) <br>
 - DBMS: Any supported engine <br>
 - GitHub for version control  <br> <br>
-
 ---
 
 ## 📚 Future Improvements <br>
@@ -34,7 +34,7 @@
 
 </div>
 
-<h2> Data Analyst for GrabFood - PowerBI </h2> 
+<h2> 📌 DATA ANALYST FOR GRABFOOD - PowerBI </h2> 
  
 <p>
 <a href="https://github.com/TruongBaoTran810/Documents/blob/main/Data Insight Analyst.pdf">Presentation_PDF</a> <br>
@@ -52,7 +52,7 @@
 <center><img src="assets/img/Growth Page.png"/></center>
 <center><img src="assets/img/Segment Page.png"/></center>
 
-<h1>Big Data</h1>
+<h1>🎯 Big Data</h1>
 
 <h2> RFM Analysis with K-MEANS Cluster by Apache SPARK Tools</h2>
 
@@ -74,7 +74,7 @@ With the green cluster, it can be said that this is a fairly large group of cust
 <center><img src="assets/img/RFM.PNG"/></center>
 
 
-<h1>Data Analytics</h1>
+<h1>🎯 Data Analytics</h1>
 
 <h2> Best Linear Regression Model to Predict Car Prices </h2>
 
